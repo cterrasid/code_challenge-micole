@@ -1,6 +1,6 @@
 # Cities of Madrid
 
-_Simple web application that shows a list of the cities of Madrid that end in a vowel. It's allows to show the complete list, clean it, and filter by name._
+_Simple web site that shows a list of the cities of Madrid that end in a vowel. It's allows to show the complete list, clean it, and filter by name._
 
 ## Project Structure 📄
 
